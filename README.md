@@ -9,4 +9,4 @@
 <p align="left">
 </p>
 
-<p align="left"> <img src="https://raw.githubusercontent.com/ivan369-git/certificates/main/Github%20-%20Certificate_Page_1.jpg" alt="photoshop" width="auto" height="400"/> </a></p>
+<p align="left"> <img src="https://raw.githubusercontent.com/ivan369-git/certificates/main/Github%20-%20Certificate_Page_1.jpg" alt="photoshop" width="auto" height="500"/> </a></p>
