@@ -8,3 +8,5 @@
   <h3 align="left">My certificates:</h3>
 <p align="left">
 </p>
+
+<p align="left"> <img src="https://cdn-icons-png.flaticon.com/512/174/174881.png" alt="photoshop" width="40" height="40"/> </a></p>
