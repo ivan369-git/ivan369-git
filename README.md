@@ -9,4 +9,4 @@
 <p align="left">
 </p>
 
-<p align="center"> <img src="https://raw.githubusercontent.com/ivan369-git/certificates/main/Github%20-%20Certificate_Page_1.jpg" alt="JavaScript" width="auto" height="500"/>&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/ivan369-git/certificates/main/Github%20-%20Certificate_Page_SysAdmin.jpg" alt="SysAdmin" width="auto" height="400"/> </a></p>
+<p align="center"> <img src="https://raw.githubusercontent.com/ivan369-git/certificates/main/Github%20-%20Certificate_Page_1.jpg" alt="JavaScript" width="auto" height="500"/>&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/ivan369-git/certificates/main/Github%20-%20Certificate_Page_SysAdmin.jpg" alt="SysAdmin" width="auto" height="430"/> </a></p>
